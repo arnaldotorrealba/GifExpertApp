@@ -12,7 +12,7 @@ export const AddCategory = ({ onNewCategory }) => {
     const newInput = inputValue.trim()
 
     if (newInput.length <= 1) return
-    // setCategories(cat => [inputValue, ...cat])
+
     onNewCategory(newInput)
     setInputValue('')
   }
