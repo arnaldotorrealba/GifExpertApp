@@ -3,3 +3,5 @@
 # Deploy
 
 | https://gif-expert-arnaldotorr.netlify.app/
+or
+| https://arnaldotorrealba.github.io/GifExpertApp/
