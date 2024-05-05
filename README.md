@@ -1,4 +1,4 @@
-# React + Vite
+# Gif Expert App con React
 
 # Deploy
 
